@@ -12,6 +12,9 @@ https://github.com/LeagueSandbox/GameServer and https://github.com/LeagueSandbox
 	* `cd LeagueSandbox-Custom`
 	* `git submodule init`
 	* `git submodule update`
+	* `cd GameServer`
+	* `git submodule init`
+	* `git submodule update`
 * Go into GameServer folder
 * Go into GameServerConsole
 * Go into bin
