@@ -15,10 +15,10 @@ https://github.com/LeagueSandbox/GameServer and https://github.com/LeagueSandbox
 	* `cd GameServer`
 	* `git submodule init`
 	* `git submodule update`
+* Go into GameServer folder
 * Open GameServer.sln (in Visual Studio)
 * Restore Nuget Packages
 * Build
-* Go into GameServer folder
 * Go into GameServerConsole
 * Go into bin
 * Go into Debug
