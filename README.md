@@ -67,8 +67,8 @@ C:\League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\d
 ```
 { <= this is where you start highlighting to copy)
 	"rank": "DIAMOND",
-	"name": "Test1",
-	"champion": "Katarina",
+	"name": "Test",
+	"champion": "Ezreal",
 	"team": "BLUE",
 	"skin": 0,
 	"summoner1": "SummonerHeal",
