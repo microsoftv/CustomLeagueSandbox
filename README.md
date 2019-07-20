@@ -3,7 +3,8 @@ https://github.com/LeagueSandbox/GameServer and https://github.com/LeagueSandbox
 
 # Prerequisites:
 * League v4.20 client: https://mega.nz/#!hpkiQK5A!pFkZJtxCMQktJf4umplAdPC_Fukt0xgMfO7g3bGp1Io
-* A brain with some experience with code.
+* .NET Framework 4.6.2 for VS: https://go.microsoft.com/fwlink/?linkid=780616
+* A brain with some experience with filesystems or code
 
 # Setup:
 * Clone this repository using git from cmd or Git Bash (not just downloading zip)
