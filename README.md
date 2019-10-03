@@ -1,3 +1,6 @@
+#Disclaimer:
+The files present in this build may be outdated compared to the official build.
+
 # Details:
 https://github.com/LeagueSandbox/GameServer and https://github.com/LeagueSandbox/LeagueSandbox-Default but with additions including more champion abilities (unfinished), custom champion files, and API functionality.
 
