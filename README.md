@@ -13,6 +13,7 @@ https://github.com/LeagueSandbox/GameServer and https://github.com/LeagueSandbox
 * Clone this repository using git from cmd or Git Bash (not just downloading zip)
 	* Git Bash: https://git-scm.com/download/win
 	### Command Method:
+	NOTE: For those using this method for the official build, replace `https://github.com/microsoftv/LeagueSandbox-Custom` with `https://github.com/LeagueSandbox/GameServer`, and skip to `cd GameServer`
 	* `git clone https://github.com/microsoftv/LeagueSandbox-Custom`
 	* `cd LeagueSandbox-Custom`
 	* `git submodule init`
